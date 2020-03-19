@@ -1,0 +1,7 @@
+{
+  "name": "marmitas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
